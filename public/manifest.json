@@ -1,0 +1,17 @@
+{
+  "name": "SAMADHAN – Smart Administration & Monitoring System",
+  "short_name": "SAMADHAN",
+  "description": "Unified platform for reporting civic issues and tracking their resolution.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080f",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
